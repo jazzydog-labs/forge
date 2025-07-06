@@ -4,7 +4,7 @@
 - [x] Document CLI entry points for direct user access.
 - [x] Design REST API for service mode and remote callers.
  - [x] Outline event bus semantics for Crucible communication.
-- [ ] Specify how Vault exposes read-only artifacts to Forge.
+ - [x] Specify how Vault exposes read-only artifacts to Forge.
 
 ## 2. Build Forge Orchestrator
 - [ ] Implement core controller accepting commands from multiple protocols.
