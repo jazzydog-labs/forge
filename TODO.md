@@ -2,7 +2,7 @@
 
 ## 1. Define Interaction Modes
 - [x] Document CLI entry points for direct user access.
-- [ ] Design REST API for service mode and remote callers.
+- [x] Design REST API for service mode and remote callers.
 - [ ] Outline event bus semantics for Crucible communication.
 - [ ] Specify how Vault exposes read-only artifacts to Forge.
 
