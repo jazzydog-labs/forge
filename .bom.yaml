@@ -1,0 +1,11 @@
+name: forge
+description: Code generation and scaffolding workspace
+type: generation
+remotes:
+  origin: https://github.com/jazzydog-labs/forge.git
+integration_quality:
+  documentation_completeness: good
+  bom_integration: complete
+  context_file_coverage: good
+  last_updated: "2025-01-27"
+  notes: "Code generation and scaffolding workspace for the foundry ecosystem" 
