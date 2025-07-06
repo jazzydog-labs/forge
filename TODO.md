@@ -7,7 +7,7 @@
  - [x] Specify how Vault exposes read-only artifacts to Forge.
 
 ## 2. Build Forge Orchestrator
-- [ ] Implement core controller accepting commands from multiple protocols.
+- [x] Implement core controller accepting commands from multiple protocols.
 - [ ] Provide adapters for CLI, REST, and event bus messages.
 - [ ] Support manual (human) control via MCP or similar channels.
 
